@@ -4,7 +4,7 @@ I'm a Front-end developer based in Lisbon, Portugal. I'm interested in React and
 
 I'm currently working at Alter Solutions, https://www.alter-solutions.com/ as a React Developer.
 
-Previously, I worked at Eguana Soluções as a Front-end Developer, Where I have started my career as a developer back in 2019.
+Previously, I worked at Eguana Soluções and at EEmovel as a Front-end Developer, Where I have started my career as a developer back in 2019.
 
 <!--
 **erickserra/erickserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
