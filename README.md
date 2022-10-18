@@ -6,9 +6,6 @@ I'm currently working at Alter Solutions, https://www.alter-solutions.com/ as a 
 
 Previously, I worked at Eguana Soluções as a Front-end Developer, Where I have started my career as a developer back in 2019.
 
-My personal website
-@peduarte on Twitter
-
 <!--
 **erickserra/erickserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
