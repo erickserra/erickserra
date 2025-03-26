@@ -1,10 +1,8 @@
 ### Hello, I’m Erick. 👋
 
-I'm a Front-end developer based in Lisbon, Portugal. I'm interested in React and all the ecosystem around it.
+I'm a Front-end developer based in Lisbon, Portugal. I'm interested in React, Node JS and all the ecosystem around it.
 
-I'm currently working at Alter Solutions, https://www.alter-solutions.com/ as a React Developer.
-
-Previously, I worked at Eguana Soluções as a Front-end Developer, Where I have started my career as a developer back in 2019.
+I'm currently working at Blip, https://www.blip.pt/ as a Software Engineer.
 
 <!--
 **erickserra/erickserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
