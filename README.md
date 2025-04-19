@@ -1,6 +1,6 @@
 ### Hello, I’m Erick. 👋
 
-I'm a Front-end developer based in Lisbon, Portugal. I'm interested in React, Node JS and all the ecosystem around it.
+I'm a Front-end developer based in Portugal. I'm interested in React, Typescript, Node JS and all the ecosystem around it.
 
 I'm currently working at Blip, https://www.blip.pt/ as a Software Engineer.
 
