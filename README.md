@@ -1,8 +1,8 @@
 ### Hello, I’m Erick. 👋
 
-I'm a Front-end developer based in Portugal. I'm interested in React, Typescript, Node JS and all the ecosystem around it.
+I'm a Software engineer based in Portugal. I'm interested in React, Typescript, Node JS and all the ecosystem around it.
 
-I'm currently working at Blip, https://www.blip.pt/ as a Software Engineer.
+I'm currently working at Blip, https://www.blip.pt/.
 
 <!--
 **erickserra/erickserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
