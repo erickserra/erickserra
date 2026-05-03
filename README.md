@@ -2,7 +2,7 @@
 
 I'm a Software engineer based in Portugal. I'm interested in React, Typescript, Node JS and all the ecosystem around it.
 
-I'm currently working at Blip, https://www.blip.pt/.
+I'm currently working at Compass, https://www.compass-group.com/en/
 
 <!--
 **erickserra/erickserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
